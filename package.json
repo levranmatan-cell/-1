@@ -1,0 +1,9 @@
+{
+  "name": "ze1-game",
+  "version": "1.0.0",
+  "description": "הבנים של ז׳1 - שרת קטן למשחק אונליין",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
